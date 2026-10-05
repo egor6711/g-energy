@@ -2,9 +2,13 @@
 
 > Modern energy brand website concept with a bold visual identity and responsive layout.
 
+<p align="center">
+  <img src="./preview.png" alt="G-Energy website preview" width="100%">
+</p>
+
 ## ✨ About
 
-G-Energy is a modern landing page concept created with a focus on visual presentation, clean structure and responsive design.
+G-Energy is a modern landing page concept focused on strong visual presentation, clean structure and responsive design.
 
 The project was built from scratch using vanilla web technologies without heavy frameworks.
 
@@ -32,14 +36,9 @@ The project was built from scratch using vanilla web technologies without heavy 
 g-energy/
 ├── index.html
 ├── styles.css
-└── app.js
+├── app.js
+└── preview.png
 ```
-
-## 📸 Preview
-
-A live version of the project is available on Vercel:
-
-https://g-energy-ten.vercel.app/
 
 ## 📌 Status
 
